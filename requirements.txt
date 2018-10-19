@@ -5,6 +5,5 @@ os
 requests
 datetime
 time
-sys
 asyncio
 telepot

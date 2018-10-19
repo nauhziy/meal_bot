@@ -1,0 +1,10 @@
+pandas
+numpy
+sys
+os
+requests
+datetime
+time
+sys
+asyncio
+telepot

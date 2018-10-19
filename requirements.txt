@@ -1,6 +1,5 @@
 pandas
 numpy
-os
 requests
 datetime
 time
